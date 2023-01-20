@@ -5,7 +5,7 @@ This code allows you to use the power of the OpenAI API to generate SQL queries 
 ## Getting Started
 
 1. Clone the repository: 
-git clone https://github.com/<your-username>/openai-google-sheets-integration.git
+git clone https://github.com/devinpicciolini/OpenAISheets-SQLGenie.git
 
 Copy code
 
